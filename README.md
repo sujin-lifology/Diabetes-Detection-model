@@ -1,1 +1,3 @@
 # Diabetes-Detection-model
+
+The aim of this project is to create a predictive model that uses a support vector machine classifier algorithm from machine learning library scikit-learn to check whether the person is diabetic or not. For that we use real-world data of women from kaggle, such as their pregnancy count, glucose tolerance, and other health-related characteristics. The  model will be able to identify an individual's risk of developing diabetes using this data. Early detection is the aim to create awareness among people to start taking care of their health earlier. It's about using AI technology to keep people healthy by predicting their health and avoiding problems before they get serious.
